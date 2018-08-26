@@ -50,3 +50,6 @@ elif choice == '4':
    print(credits)
 else:
    print("Invalid input")
+
+print()
+input("Press enter to exit ;)")
